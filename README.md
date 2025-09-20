@@ -20,7 +20,7 @@ Repository: [RISC-V Tapeout](https://github.com/Meganthiyav/RISC-V-Tapeout)
 
 [Download Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)  
 
-<img width="981" height="480" alt="System Details" src="https://github.com/user-attachments/assets/92a6a29f-0acd-413b-9392-31fbca24488b" />  
+ 
 
 ---
 
@@ -40,18 +40,18 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-<img width="905" height="516" alt="Yosys" src="https://github.com/user-attachments/assets/be57dc4a-39a5-46f8-98e3-5cbeefa8ab49" />
+
 
 **iVerilog**
 ```
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-<img width="940" height="582" alt="iVerilog" src="https://github.com/user-attachments/assets/0f111649-731c-495e-ab49-d00747cee088" />
+
 
 **GTKWAVE**
 ```
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-<img width="866" height="129" alt="GTKWave" src="https://github.com/user-attachments/assets/b8caf5ca-ef29-416f-a289-5043c0891222" />
+
