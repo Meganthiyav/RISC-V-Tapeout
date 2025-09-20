@@ -19,7 +19,7 @@ Repository: [RISC-V Tapeout](https://github.com/Meganthiyav/RISC-V-Tapeout)
 - **OS:** Ubuntu 20.04+  
 
 [Download Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)  
-src:https://github.com/Meganthiyav/RISC-V-Tapeout/11.jpg
+
  
 
 ---
