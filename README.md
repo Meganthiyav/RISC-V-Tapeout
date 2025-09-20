@@ -7,8 +7,7 @@
 ---
 
 ### ✅ Task 1: GitHub Repository  
-Repository: [RISC-V Tapeout](https://github.com/eceelango/Elango_RISC-V-Chip-Tapeout-Program)  
-
+Repository: [RISC-V Tapeout](https://github.com/Meganthiyav/RISC-V-Tapeout)
 ---
 
 ### ✅ Task 2: Tool Installation  
