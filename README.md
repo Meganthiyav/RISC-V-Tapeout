@@ -22,9 +22,7 @@ Repository: [RISC-V Tapeout](https://github.com/Meganthiyav/RISC-V-Tapeout)
 ![image](Photos)
  
 
----
 
-![image](11.jpg)
 
 **Yosys**
 ```
@@ -42,7 +40,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-
+![image](
 
 **iVerilog**
 ```
