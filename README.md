@@ -25,19 +25,34 @@ Repository: [RISC-V Tapeout](https://github.com/eceelango/Elango_RISC-V-Chip-Tap
 
 ---
 
-#### 🛠️ Yosys Installation  
-```bash
-sudo apt-get update
-git clone https://github.com/YosysHQ/yosys.git
-cd yosys
-sudo apt install make
-sudo apt-get install build-essential clang bison flex \
+**Yosys**
+```
+$ sudo apt-get update
+$ git clone https://github.com/YosysHQ/yosys.git
+$ cd yosys
+$ sudo apt install make               # If make is not installed
+$ sudo apt-get install build-essential clang bison flex \
     libreadline-dev gawk tcl-dev libffi-dev git \
     graphviz xdot pkg-config python3 libboost-system-dev \
     libboost-python-dev libboost-filesystem-dev zlib1g-dev
-make config-gcc
-git submodule update --init --recursive   # Initialize abc submodule
-make
-sudo make install
+$ make config-gcc
+# Yosys build depends on a Git submodule called abc, which hasn't been initialized yet. You need to run the following command before running make
+$ git submodule update --init --recursive
+$ make 
+$ sudo make install
+```
+<img width="905" height="516" alt="Yosys" src="https://github.com/user-attachments/assets/be57dc4a-39a5-46f8-98e3-5cbeefa8ab49" />
 
+**iVerilog**
+```
+$ sudo apt-get update
+$ sudo apt install gtkwave
+```
+<img width="940" height="582" alt="iVerilog" src="https://github.com/user-attachments/assets/0f111649-731c-495e-ab49-d00747cee088" />
 
+**GTKWAVE**
+```
+$ sudo apt-get update
+$ sudo apt install gtkwave
+```
+<img width="866" height="129" alt="GTKWave" src="https://github.com/user-attachments/assets/b8caf5ca-ef29-416f-a289-5043c0891222" />
