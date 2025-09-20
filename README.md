@@ -24,6 +24,8 @@ Repository: [RISC-V Tapeout](https://github.com/Meganthiyav/RISC-V-Tapeout)
 
 ---
 
+![image](11.jpg)
+
 **Yosys**
 ```
 $ sudo apt-get update
