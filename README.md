@@ -42,7 +42,7 @@ $ make
 $ sudo make install
 $sudo apt install yosys
 ```
-![image](images/Screenshot from 2025-09-23 15-41-10.png)
+![image](images/Screenshot)
 
 **iVerilog**
 ```
