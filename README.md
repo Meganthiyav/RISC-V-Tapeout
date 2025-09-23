@@ -49,7 +49,7 @@ $sudo apt install yosys
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-
+![image](images/Screenshot from 2025-09-23 15-41-10.png)
 
 **GTKWAVE**
 ```
