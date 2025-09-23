@@ -12,14 +12,11 @@ Repository: [RISC-V Tapeout](https://github.com/Meganthiyav/RISC-V-Tapeout)
 
 ### ✅ Task 2: Tool Installation  
 
-#### System Requirements  
-- **RAM:** 6GB minimum  
-- **Disk:** 50GB HDD  
-- **CPU:** 4 vCPUs  
-- **OS:** Ubuntu 20.04+  
+<img width="1199" height="702" alt="Screenshot from 2025-09-23 15-45-42" src="https://github.com/user-attachments/assets/813f6f6b-8db9-472e-8de4-87b018e2a269" />
+ 
 
 [Download Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)  
-![image](Photos)
+
  
 
 
@@ -42,18 +39,25 @@ $ make
 $ sudo make install
 $sudo apt install yosys
 ```
-![image](images/Screenshot)
+<img width="1141" height="615" alt="Screenshot from 2025-09-23 15-40-39" src="https://github.com/user-attachments/assets/15a84d0e-7401-40c9-b695-9c7d7888650e" />
+
 
 **iVerilog**
 ```
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-![image]()
+
+<<img width="777" height="493" alt="Screenshot from 2025-09-23 15-41-10" src="https://github.com/user-attachments/assets/7a07579c-effe-4c30-84fd-e2d018eff4e5" />
+
 
 **GTKWAVE**
 ```
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
+
+<img width="1113" height="713" alt="Screenshot from 2025-09-23 15-41-34" src="https://github.com/user-attachments/assets/d40cb026-423d-468f-a74d-fecaba58f00f" />
+
+
 
