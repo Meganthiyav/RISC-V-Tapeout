@@ -28,6 +28,7 @@ Repository: [RISC-V Tapeout](https://github.com/Meganthiyav/RISC-V-Tapeout)
 ```
 $ sudo apt-get update
 $ git clone https://github.com/YosysHQ/yosys.git
+$ sudo apt install git
 $ cd yosys
 $ sudo apt install make               # If make is not installed
 $ sudo apt-get install build-essential clang bison flex \
@@ -39,6 +40,7 @@ $ make config-gcc
 $ git submodule update --init --recursive
 $ make 
 $ sudo make install
+$sudo apt install yosys
 ```
 ![image](
 
