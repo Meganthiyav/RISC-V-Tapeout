@@ -12,7 +12,8 @@ Repository: [RISC-V Tapeout](https://github.com/Meganthiyav/RISC-V-Tapeout)
 
 ### ✅ Task 2: Tool Installation  
 
-<img width="1199" height="702" alt="neofetch" src="https://github.com/user-attachments/assets/31b4e01e-b868-4e12-a4be-8f39f032772d" />
+<img width="1199" height="702" alt="neofetch" src="https://github.com/user-attachments/assets/7941eaab-3a46-4521-b3bb-0a4d022518db" />
+
 
  
 
@@ -40,7 +41,8 @@ $ make
 $ sudo make install
 $sudo apt install yosys
 ```
-<img width="1141" height="615" alt="yosys" src="https://github.com/user-attachments/assets/43739134-0f1d-4910-9772-a5ac50ec2f9c" />
+<img width="1141" height="615" alt="yosys" src="https://github.com/user-attachments/assets/2a66c015-1417-4247-9504-57cf77c76313" />
+
 
 
 **iVerilog**
@@ -49,7 +51,7 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 
-<img width="777" height="493" alt="iverilog" src="https://github.com/user-attachments/assets/d5351f2d-f58a-471d-b777-0492612abfbe" />
+<img width="777" height="493" alt="iverilog" src="https://github.com/user-attachments/assets/02a7b572-64c1-4d0d-8538-63dec44274ec" />
 
 
 **GTKWAVE**
@@ -58,4 +60,5 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 
-<img width="1113" height="713" alt="gtkwave" src="https://github.com/user-attachments/assets/a809c0f4-2ddc-499d-9b13-0a7dbe19aa2c" />
+<img width="1113" height="713" alt="gtkwave" src="https://github.com/user-attachments/assets/f5dfe712-7355-4038-9c4f-989a02c83d15" />
+
