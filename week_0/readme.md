@@ -12,7 +12,8 @@ Repository: [RISC-V Tapeout](https://github.com/Meganthiyav/RISC-V-Tapeout)
 
 ### ✅ Task 2: Tool Installation  
 
-<img width="1199" height="702" alt="Screenshot from 2025-09-23 15-45-42" src="https://github.com/user-attachments/assets/813f6f6b-8db9-472e-8de4-87b018e2a269" />
+<img width="1199" height="702" alt="neofetch" src="https://github.com/user-attachments/assets/31b4e01e-b868-4e12-a4be-8f39f032772d" />
+
  
 
 [Download Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)  
@@ -39,7 +40,7 @@ $ make
 $ sudo make install
 $sudo apt install yosys
 ```
-<img width="1141" height="615" alt="Screenshot from 2025-09-23 15-40-39" src="https://github.com/user-attachments/assets/15a84d0e-7401-40c9-b695-9c7d7888650e" />
+<img width="1141" height="615" alt="yosys" src="https://github.com/user-attachments/assets/43739134-0f1d-4910-9772-a5ac50ec2f9c" />
 
 
 **iVerilog**
@@ -48,7 +49,7 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 
-<<img width="777" height="493" alt="Screenshot from 2025-09-23 15-41-10" src="https://github.com/user-attachments/assets/7a07579c-effe-4c30-84fd-e2d018eff4e5" />
+<img width="777" height="493" alt="iverilog" src="https://github.com/user-attachments/assets/d5351f2d-f58a-471d-b777-0492612abfbe" />
 
 
 **GTKWAVE**
@@ -57,4 +58,4 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 
-<img width="1113" height="713" alt="Screenshot from 2025-09-23 15-41-34" src="https://github.com/user-attachments/assets/d40cb026-423d-468f-a74d-fecaba58f00f" />
+<img width="1113" height="713" alt="gtkwave" src="https://github.com/user-attachments/assets/a809c0f4-2ddc-499d-9b13-0a7dbe19aa2c" />
